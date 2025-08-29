@@ -52,4 +52,10 @@
     margin: auto;
     color: black;
     font-size: 1.2rem;
+
+}
+
+.imgIA{
+  float: left;
+  overflow: auto;
 }
