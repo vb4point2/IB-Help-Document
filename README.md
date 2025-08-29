@@ -1,7 +1,7 @@
 # IB-Help-Document
 This is a website that helps student's find resources for IB Computer Science SL
 
-## Features ##
+# Features 
 
 ☕Java Help 
 
@@ -9,4 +9,4 @@ This is a website that helps student's find resources for IB Computer Science SL
 
 💻General programming
 
- ## please let me know if there is anything else you want to see
+ ## please let me know if there is anything else you want to see ##
