@@ -59,3 +59,10 @@
   float: left;
   overflow: auto;
 }
+
+.iaexpl{
+    margin: auto;
+    color: black;
+    font-size: 1.2rem;
+    padding: 80px;
+}
