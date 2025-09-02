@@ -9,4 +9,12 @@ This is a website that helps student's find resources for IB Computer Science SL
 
 💻General programming
 
+# New Features
+
+📖Added IB English/Lit Lang help (More coming soon) 
+
+# Bug Fixes
+
+fixed bad format for IA Help Page
+
  ## please let me know if there is anything else you want to see ##
