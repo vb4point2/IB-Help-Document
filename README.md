@@ -1,4 +1,5 @@
 # IB-Help-Document
+https://vb4point2.github.io/IB-Help-Document/
 This is a website that helps student's find resources for IB Computer Science SL
 
 # Features 
